@@ -1,3 +1,15 @@
 #pacman {
-    margin-left: 50%;
+    margin-left: 47%;
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    font-family: courier;
+    text-align: center;
+    color: rgb(255,255,150);
+}
+
+body {
+    background-color: rgb(50,50,50);
 }
